@@ -2,7 +2,7 @@
 융합연구 활성화 아이디어 공모전 시행을 통해 새로운 미래사회를 대비하기 위한 대학(원)생들의 참신한 융합연구 아이디어 발굴 
 
 ```🏆우수상, 미래융합협의회 회장상🏆```  
-<img src="https://github.com/khw274/ACER-2022/assets/125671828/0224d034-ef39-46df-85e2-8296e12494bb" width="320" height="400"/>
+<img src="https://github.com/khw274/ACER-2022/assets/125671828/dfccb1a6-4ca6-4045-aa49-c147f3d5d00e" width="320" height="400"/>
 
 ## 아이디어명
 시각장애인들을 위한 알약 식별 스마트렌즈
