@@ -4,6 +4,7 @@
 ```🏆우수상, 미래융합협의회 회장상🏆```  
 
 <img src="https://github.com/khw274/ACER-2022/assets/125671828/dfccb1a6-4ca6-4045-aa49-c147f3d5d00e" width="320" height="400"/>
+<img src="https://github.com/user-attachments/assets/8dfc1cba-c7c4-4e39-b955-bb6482591a44" width="320" height="400"/>
 
 ## 지원 구분
 사회 현안 해결을 위한 융합연구 아이디어
